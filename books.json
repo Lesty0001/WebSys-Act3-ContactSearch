@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Fiction",
+        "available": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "available": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "available": true
+    },
+    {
+        "title": "How to Graduate from College without Losing Your Mind",
+        "author": "Lester Mae",
+        "year":2025,
+        "genre": "Pschology",
+        "available": true
+    }
+]
